@@ -11,5 +11,5 @@ print ("Nombre", Nombre)
 print ("La nota final del estudiante es: ", round (promedio,1))
 
 mpromedio = 3.0
-resultado = "Aprovado" if promedio >= mpromedio else "Reprovado"
+resultado = "Aprobado" if promedio >= mpromedio else "Reprobado"
 print("El eatudiante fue: ", resultado)
