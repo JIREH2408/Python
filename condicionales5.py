@@ -12,7 +12,7 @@ else:
 
 if Num1 < Num2 and Num1 < Num3:
     print (Num1, "es menor que ", Num2, " y ", Num3)
-elif Num1 > Num2 and Num1 < Num3:
+elif Num1 > Num2 and Num2 < Num3:
     print (Num2, "es menor que ", Num1, " y ", Num3)
 else:
     print (Num3, "es menor que ", Num1, " y ", Num2)
